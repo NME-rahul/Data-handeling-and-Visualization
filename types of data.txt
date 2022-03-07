@@ -1,0 +1,52 @@
+Types of Data
+1. Quantative data
+a. Discrete data	b. Continious data
+
+2. Qualitative data
+a. Nominal data		b. Ordinal data
+==========================================
+
+
+1. Quantitive data
+->it answers the key quwstions such as 'how many', 'how much' and 'how often'
+->quantitive data can be expressed as a number or can be quantified
+->simply, it can be measured by numericcal values
+->they are easy to handle for statistical manipulation
+eg. Scores on test, shoe size, temperature of room, weight of a perso or subject
+
+a. Discrete data
+->Discrete data is a count that invloves only integers or we can discrete values(cannot be subdivide into parts)
+eg. the number of childerns in a class - you can count whole class as individuals but can't count 1.5 childerns.
+
+b. Continious data
+->Continious data is information that could be meanigfully divide into finer levels
+->it can be measured on a scale.
+->can have every possible numeric value.
+eg. you can measure your height at very precise scales- meters, centimeters, milimeters etc.
+
+
+
+2. Qualitative data
+->Qualitative data answer questions such as 'how this happend' or and 'why this happend'.
+->Qualitative data can't be expressed as a number and can't be measured.
+->it contains words, pictures and symbols but not numbers.
+->it is also called categorial data because the information can be sorted by category.
+eg. colour of the sea, your favorite holiday destination, your name, name of a country or entity.
+
+a. Nominal data
+->the name 'nominal' comes from latin word 'nomen' which means 'name' Nominal data is just used for labeling variables.
+->it has no order just giving a name to thing/entity.
+->it can be called as labels.
+eg. Gender - Women, Men
+	Hair colour - blonde, brown, black, white, bruntte etc.
+	Marital status - single, married, widowed etc.
+	
+b. Ordinal data
+->Oridinal has some kind of order by their position on a scale.
+->you cannot do arithimatic operations with oridinal numbers.
+->Oridinal variables are considered as in between qualitative and quantative vaiables.
+->it can contain numbers(this is why it can place outside the qualitative data category).
+->simply, Oridinal data is a qualitative data for which values are ordered.
+eg. the first, second and third person in competition.
+	letter grades a,b,c etc.
+	economic status - low, midium and high.
