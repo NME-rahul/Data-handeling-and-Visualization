@@ -6,5 +6,5 @@ For example, a dataset consist of multiple physical traits of people, including 
 
 PCA - it introduces a new set of variables called principal components by linear combination of the original variables in the data, standardized to zero mean and unit variance. PCs are chosen such that they are uncorrelated and they are ordered such that the first component captures the largest possible amount of variation in the data and subsequent component capture increasingly less. 
 
-![blue-jays-PCA-1](https://clauswilke.com/dataviz/visualizing_associations_files/figure-html/blue-jays-PCA-1.png "dataset of blue jays birds")
+![blue-jays-PCA-1](https://clauswilke.com/dataviz/visualizing_associations_files/figure-html/blue-jays-PCA-1.png  "dataset of blue jays birds")
 
