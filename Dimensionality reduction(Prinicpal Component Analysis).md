@@ -1,4 +1,4 @@
-- This pdf is a part of visualising associations among two or more quantity variables
+> This pdf is a part of visualizing associations among two or more quantiative variables.
  
 ## Dimension reduction with principal component analysis- 
 Dimension reduction technique is used to perform the dataset consists of multiple correlated variables that convey overlapping information. Such dataset can be reduced to smaller dataset without loss of much critical information.
