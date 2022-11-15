@@ -2,7 +2,7 @@
  
 ## Dimension reduction with principle component analysis- 
 Dimension reduction technique is used to perform the dataset consists of multiple correlated variables that convey overlapping information. Such dataset can be reduced to smaller dataset without loss of much critical information.
-For example, consider a dataset of over 200 glass fragments. For each glass fragments, we have measurments about its composition, expressed as the the percentage in the weight of various mineral oxide. There are seven different oxides.
+For example, consider a dataset of over 200 glass fragments. For each glass fragments, we have measurments about its composition, expressed as the percentage in the weight of various mineral oxide. There are seven different oxides.
 
 PCA - it introduces a new set of variables called principle components by linear combination of the original variables in the data, standardized to zero mean and unit variance. PCs are chosen such that they are uncorrelated and they are ordered such that the first component captures the largest possible amount of variation in the data and subsequent component capture increasingly less. 
 
