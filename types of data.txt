@@ -15,7 +15,7 @@ a. Nominal data		b. Ordinal data
 eg. Scores on test, shoe size, temperature of room, weight of a perso or subject
 
 a. Discrete data
-->Discrete data is a count that invloves only integers or we can discrete values(cannot be subdivide into parts)
+->Discrete data is a count that invloves only integers or we can say discrete values(cannot be subdivide into parts)
 eg. the number of childerns in a class - you can count whole class as individuals but can't count 1.5 childerns.
 
 b. Continious data
